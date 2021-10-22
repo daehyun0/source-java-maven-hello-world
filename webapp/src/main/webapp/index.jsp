@@ -1,2 +1,2 @@
 <h1> Hello World </h1>
-<h2> Build with Jenkins Plugin v1.2</h2>
+<h2> Build with Jenkins Plugin v1.3</h2>
